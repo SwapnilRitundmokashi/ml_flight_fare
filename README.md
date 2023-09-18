@@ -20,7 +20,7 @@ Frontend: HTML and CSS
 
 Backend: Flask
 
-Deployment: Putty, Puttygen, WinSCP, AWS
+Deployment:  AWS
 
 Tools: VSCode, Jupyternotebook, Anaconda
 
